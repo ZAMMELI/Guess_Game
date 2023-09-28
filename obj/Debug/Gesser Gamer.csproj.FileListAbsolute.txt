@@ -1,0 +1,7 @@
+C:\Users\maintenance.testict\source\repos\Gesser Gamer\Gesser Gamer\bin\Debug\Gesser Gamer.exe.config
+C:\Users\maintenance.testict\source\repos\Gesser Gamer\Gesser Gamer\bin\Debug\Gesser Gamer.exe
+C:\Users\maintenance.testict\source\repos\Gesser Gamer\Gesser Gamer\bin\Debug\Gesser Gamer.pdb
+C:\Users\maintenance.testict\source\repos\Gesser Gamer\Gesser Gamer\obj\Debug\Gesser Gamer.csproj.AssemblyReference.cache
+C:\Users\maintenance.testict\source\repos\Gesser Gamer\Gesser Gamer\obj\Debug\Gesser Gamer.csproj.CoreCompileInputs.cache
+C:\Users\maintenance.testict\source\repos\Gesser Gamer\Gesser Gamer\obj\Debug\Gesser Gamer.exe
+C:\Users\maintenance.testict\source\repos\Gesser Gamer\Gesser Gamer\obj\Debug\Gesser Gamer.pdb
